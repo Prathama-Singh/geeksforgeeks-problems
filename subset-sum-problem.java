@@ -1,3 +1,4 @@
+//https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1
 class Solution {
 
     static Boolean isSubsetSum(int arr[], int sum) {
